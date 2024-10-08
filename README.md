@@ -2,11 +2,7 @@
 <h3 align="center">An aspiring software enthusiast, driven by a passion for coding, continuous learning, and creating impactful software solutions.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saisathwik22&label=Profile%20views&color=0e75b6&style=flat" alt="saisathwik22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisathwik22" alt="saisathwik22" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sathwik2822" target="blank"><img src="https://img.shields.io/twitter/follow/sathwik2822?logo=twitter&style=for-the-badge" alt="sathwik2822" /></a> </p>
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/saisathwik22/inventory-management)
 
