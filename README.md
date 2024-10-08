@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Sathwik</h1>
 <h3 align="center">An aspiring software enthusiast, driven by a passion for coding, continuous learning, and creating impactful software solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisathwik22&label=Profile%20views&color=0e75b6&style=flat" alt="saisathwik22" /> </p>
 
