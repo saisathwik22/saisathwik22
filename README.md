@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Next.js, PostgreSQL, Amazon AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saisathwik22?tab=repositories](https://github.com/saisathwik22?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XBHb_cCzMEOee3rvYXeoGyt3rkxZwYgr/view?usp=drive_link](https://drive.google.com/file/d/1XBHb_cCzMEOee3rvYXeoGyt3rkxZwYgr/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XBHb_cCzMEOee3rvYXeoGyt3rkxZwYgr/view?usp=drive_link)
 
 - ⚡ Fun fact **There's nothing funny about me, period!**
 
