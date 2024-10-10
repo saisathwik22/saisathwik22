@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Sathwik</h1>
+<h1 align="center">Hi 👋, I'm Sai Sathwik Reddy</h1>
 
 
 
