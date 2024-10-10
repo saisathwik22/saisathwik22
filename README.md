@@ -6,27 +6,27 @@
 
 - 🌱 I’m currently learning **Next.js, PostgreSQL, Amazon AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saisathwik22?tab=repositories](https://github.com/saisathwik22?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XBHb_cCzMEOee3rvYXeoGyt3rkxZwYgr/view?usp=drive_link](https://drive.google.com/file/d/1XBHb_cCzMEOee3rvYXeoGyt3rkxZwYgr/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1XBHb_cCzMEOee3rvYXeoGyt3rkxZwYgr/view?usp=drive_link)
 
 - ⚡ Fun fact **There's nothing funny about me, period!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sathwik2822" height="30" width="40" /></a>
-<a href="https://twitter.com/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathwik2822" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saisathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisathwik2822" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27684971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27684971" height="30" width="40" /></a>
 <a href="https://instagram.com/_sathwiiik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sathwiiik_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwik2822" height="30" width="40" /></a>
+<a href="https://twitter.com/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathwik2822" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sathwik_2822" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sathwik_2822" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sathwik2822" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwik2822" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27684971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27684971" height="30" width="40" /></a>
+<a href="https://dev.to/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sathwik2822" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies & Tools: </h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
