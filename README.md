@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Next.js**
+- 🔭 I’m currently working on **Next.js** Project
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
