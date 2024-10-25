@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on a Next.js Project
+- 🔭 I’m currently working on **Next.js**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
