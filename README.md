@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Jira Clone
+- 🔭 I’m currently working on a Next.js Project
 
 - 🌱 I’m currently learning **Next.js**
 
