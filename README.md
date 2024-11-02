@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15B5V1qFtm5uczBPQaLqSdYv2hD3uVvkk/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TwJwH037LrSnspeF65LdAnKH3LdHeHRR/view?usp=drivesdk)
 
 - ⚡ Fun fact **There's nothing funny about me, period!**
 
