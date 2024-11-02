@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Next.js** Project
 
-- 🌱 I’m currently solving **Data Structures and Algorithms** problems on **Leetcode**
+- 🌱 I’m currently solving **DSA** problems on **Leetcode**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
