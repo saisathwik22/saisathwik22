@@ -2,15 +2,15 @@
 
 
 
-- 🔭 I’m currently working on **Next.js** Project
+- 🔭 I’m currently working on **Full Stack** Project
 
-- 🌱 I’m currently solving **DSA** problems on **Leetcode**
+- 🌱 I’m currently solving **DSA** problems
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TwJwH037LrSnspeF65LdAnKH3LdHeHRR/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1COcSEj_skEYBfWL88xUxxMPaLfexahI5/view?usp=drivesdk)
 
 - ⚡ Fun fact **There's nothing funny about me, period!**
 
