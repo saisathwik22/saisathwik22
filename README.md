@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1COcSEj_skEYBfWL88xUxxMPaLfexahI5/view?usp=drivesdk)
 
-- ⚡ Fun fact **There's nothing funny about me, period!**
+- ⚡ Fun fact? **Never mind! 😮‍💨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
