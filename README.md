@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com**
+**sathwik2822@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1COcSEj_skEYBfWL88xUxxMPaLfexahI5/view?usp=drivesdk)
 
