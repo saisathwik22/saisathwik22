@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Full Stack** Project
 
+- 📚 Fellow at NxtWave's CCBP 4.0 Academy
+
 - 🌱 I’m currently solving **DSA** problems
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
