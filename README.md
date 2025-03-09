@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a **Full Stack** Project
+- 🔭 I’m currently working on a **Backend** Project
 
 - 📚 Fellow at NxtWave's CCBP 4.0 Academy
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com** | **sathwik2822@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1COcSEj_skEYBfWL88xUxxMPaLfexahI5/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Pw2lIkfnqw4qpSxPMoWecqb3eNaa25JS/view?usp=drivesdk)
 
 - ⚡ Fun fact? **Never mind! 😮‍💨**
 
