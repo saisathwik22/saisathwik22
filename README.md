@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Focus on Backend Development!
+- 🔭 Focus on **Backend Development!**
 
 - 📚 Fellow at NxtWave's CCBP 4.0 Academy
 
