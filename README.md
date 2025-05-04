@@ -4,7 +4,7 @@
 
 - 🔭 Learning **Backend Development!**
 
-- 📚 Fellow at NxtWave's CCBP 4.0 Academy (DSA)
+- 📚 Practicing DSA on **Leetcode**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
