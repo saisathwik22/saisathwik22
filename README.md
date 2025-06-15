@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ayV41QSYbwG0PFxo-AYrHnpFINhUACSZ/view?usp=sharing)
 
-- ⚡ Fun fact? **Never mind! 😮‍💨**
+- ⚡ Fun fact? **Searching..... ERROR 404**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
