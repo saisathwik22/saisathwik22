@@ -4,7 +4,7 @@
 
 - 🔭 Learning **Backend Development!**
 
-- 📚 Practicing DSA on **Leetcode**
+- 📚 DSA @ **Leetcode** | **GFG** 
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/saisathwik22?tab=repositories)
 
