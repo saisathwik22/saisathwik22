@@ -6,13 +6,12 @@
 
 - ⚡ Fun fact? **Searching..... ERROR 404**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/saisathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisathwik2822" height="30" width="40" /></a>
+<h3 align="left">Linkedin</h3><a href="https://linkedin.com/in/saisathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisathwik2822" height="30" width="40" /></a>
 <br></br>
-<a href="https://instagram.com/_sathwiiik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sathwiiik_" height="30" width="40" /></a>
-<br></br>
-<a href="https://www.leetcode.com/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwik2822" height="30" width="40" /></a>
+
+<h3 align="left">Leetcode</h3><a href="https://www.leetcode.com/sathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwik2822" height="30" width="40" /></a>
 
 
 <h3 align="left">Programming Languages | Databases | Frameworks </h3>
