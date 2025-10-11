@@ -4,9 +4,9 @@
 
 - 📄 [My Resume](https://drive.google.com/file/d/1BlLhGmoBz1fMFhrFAopBMlfKDaBw1497/view?usp=sharing)
 
-- <a href="https://linkedin.com/in/saisathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisathwik2822" height="20" width="25" />Linkedin</a>
+- <a href="https://linkedin.com/in/saisathwik2822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saisathwik2822" height="20" width="25" /> Linkedin</a>
 
-- <a href="https://leetcode.com/u/Sai_Sathwik_Reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwik2822" height="20" width="25" />Leetcode</a>
+- <a href="https://leetcode.com/u/Sai_Sathwik_Reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sathwik2822" height="20" width="25" /> Leetcode</a>
 
 
 
