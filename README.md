@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Sathwik</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack | Open to Work</h2>
+<h3 align="center">Aspiring Software Engineer | Full Stack | Open to Work</h3>
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com** | **sathwik2822@gmail.com**
 
