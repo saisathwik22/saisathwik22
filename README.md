@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Sathwik Reddy</h1>
+<h1 align="center">Hi 👋, I'm Sai Sathwik</h1>
+<h2 align="center">Aspiring Software Engineer</h2>
 
 - 📫 How to reach me **reddysaisathwik022@gmail.com** | **sathwik2822@gmail.com**
 
