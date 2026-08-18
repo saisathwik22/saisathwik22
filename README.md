@@ -1,20 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sathwik
 ================================================================================================================================
 
-AI & ML + Software Engineering Enthusiast
+AI/ML + Software Engineering Enthusiast
 -----------------------------------------
 
-I'm a Computer Science Graduate, passionate about technology.
+I'm a Computer Science Graduate, passionate about **Technology**.
 
-I have hands-on project experience in Java & Spring Boot, also explored and implemented real-world engineering concepts such as REST APIs, Distributed Systems, Event driven Architecture, Microservices, Caching, Distributed locking, JWT Authentication & RBAC.
+I have hands-on project experience in **Java & Spring Boot** with theoretical & practical understanding of real-world engineering concepts such as Distributed Systems, Microservices, RESTful APIs, Caching using **Redis**, Event-driver Architecture using **Kafka**, JWT Authentication, RBAC, Reverse Proxy, Distributed Locking, Message Queues using **BullMQ**, Database related concepts such as **ACID Transactions** etc.
 
-Currently upskilling myself in the world of AI & ML by building projects.
+Currently upskilling myself in AI & ML domain
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [saisathwikreddy2003@gmail.com](mailto:saisathwikreddy2003@gmail.com)
 * 🧠  I'm currently learning Artificial Intelligence & Machine Learning
 * 👥  I'm looking to collaborate on real-world, challenging engineering projects
-* 💬  Ask me about Curious about real-world Engineering Concepts and their implementations
+
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
