@@ -1,14 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sathwik
-================================================================================================================================
+# Hi there, I'm Sai Sathwik 👋 
 
 AI/ML + Software Engineering Enthusiast
 -----------------------------------------
 
-I'm a Computer Science Graduate, passionate about **Technology**.
 
-I have hands-on project experience in **Java & Spring Boot** with theoretical & practical understanding of real-world engineering concepts such as Distributed Systems, Microservices, RESTful APIs, Caching using **Redis**, Event-driver Architecture using **Kafka**, JWT Authentication, RBAC, Reverse Proxy, Distributed Locking, Message Queues using **BullMQ**, Database related concepts such as **ACID Transactions** etc.
+I am a **Computer Science Graduate** and an aspiring **Software Engineer** focused on building resilient, intelligent, and scalable software architecture. 
 
-Currently upskilling myself in AI & ML domain
+Rather than just writing code, I dive deep into **System Design and core engineering principles** to bridge the gap between traditional distributed backends and modern generative AI workflows. I build applications from the architectural foundation up.
+
+---
+
+### 🚀 What I Do (Engineering vs. Coding)
+
+*   **Distributed Systems:** Moving past monolithic apps to engineer high-concurrency microservices, managing state with distributed caching and event-driven message queues.
+*   **Artificial Intelligence:** Moving beyond basic LLM prompts to architect autonomous, multi-agent workflows that leverage contextual memory and grounded intelligence.
+*   **Data Science & Machine Learning:** Building, training, and fine-tuning specialized predictive models, optimizing data pipelines for precise inference and real-world utility.
+
+---
+
+### 🛠️ Featured Projects
+
+#### 🚗 **Distributed Ride-Matching System**
+*Built a scalable backend architecture from scratch to handle high-concurrency real-time matching.*
+*   **Concepts:** Microservices Architecture, Distributed Caching, Message Queues, Rate Limiting.
+*   **Tech Stack:** *Java, Spring Boot, Redis, Kafka, Docker, Microservices, MySQL*
+
+#### 🤖 **Autonomous Multi-Agent AI System**
+*Architected a complex multi-agent framework utilizing context-aware retrieval and graph-based routing.*
+*   **Concepts:** Retrieval-Augmented Generation (RAG), Graph Routing, Vector Embeddings, Memory Management.
+*   **Tech Stack:** *LangChain, LangGraph, Vector Databases, RAG, MERN*.
+
+#### 📊 **End-to-End Machine Learning Suites**
+*Built, trained, and fine-tuned domain-specific predictive models.*
+*   **Models:** Emotion Predictor (Classifier), Movie Recommender Engine.
+*   **Concepts:** Data Preprocessing, Fine-Tuning, Hyperparameter Optimization, Evaluation Metrics.
+*   **Tech Stack:** *Python, Scikit-Learn, Pandas, NumPy*
+
+---
+
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [saisathwikreddy2003@gmail.com](mailto:saisathwikreddy2003@gmail.com)
