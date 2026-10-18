@@ -12,9 +12,9 @@ Rather than just writing code, I dive deep into **System Design and core enginee
 
 ### 🚀 What I Do (Engineering vs. Coding)
 
-*   **Distributed Systems:** Moving past monolithic apps to engineer high-concurrency microservices, managing state with distributed caching and event-driven message queues.
 *   **Artificial Intelligence:** Moving beyond basic LLM prompts to architect autonomous, multi-agent workflows that leverage contextual memory and grounded intelligence.
 *   **Data Science & Machine Learning:** Building, training, and fine-tuning specialized predictive models, optimizing data pipelines for precise inference and real-world utility.
+*   **Distributed Systems:** Moving past monolithic apps to engineer high-concurrency microservices, managing state with distributed caching and event-driven message queues.
 
 ---
 
