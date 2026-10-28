@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Sathwik 👋 
 
-AI/ML + Software Engineering Enthusiast
+AI + Software Engineering Enthusiast
 -----------------------------------------
 
 
@@ -13,12 +13,13 @@ Rather than just writing code, I dive deep into **System Design and core enginee
 ### 🚀 What I Do (Engineering vs. Coding)
 
 *   **Artificial Intelligence:** Moving beyond basic LLM prompts to architect autonomous, multi-agent workflows that leverage contextual memory and grounded intelligence.
-*   **Data Science & Machine Learning:** Building, training, and fine-tuning specialized predictive models, optimizing data pipelines for precise inference and real-world utility.
 *   **Distributed Systems:** Moving past monolithic apps to engineer high-concurrency microservices, managing state with distributed caching and event-driven message queues.
 
 ---
 
 ### 🛠️ Featured Projects
+#### 📊 **AI Video Assisstant - RAG**
+*Working on a tool that transcribes videos, summarizes them, extracts action items and lets you chat with your meeting free.*
 
 #### 🚗 **Distributed Ride-Matching System**
 *Built a scalable backend architecture from scratch to handle high-concurrency real-time matching.*
@@ -30,19 +31,14 @@ Rather than just writing code, I dive deep into **System Design and core enginee
 *   **Concepts:** Retrieval-Augmented Generation (RAG), Graph Routing, Vector Embeddings, Memory Management.
 *   **Tech Stack:** *LangChain, LangGraph, Vector Databases, RAG, MERN*.
 
-#### 📊 **End-to-End Machine Learning Suites**
-*Built, trained, and fine-tuned domain-specific predictive models.*
-*   **Models:** Emotion Predictor (Classifier), Movie Recommender Engine.
-*   **Concepts:** Data Preprocessing, Fine-Tuning, Hyperparameter Optimization, Evaluation Metrics.
-*   **Tech Stack:** *Python, Scikit-Learn, Pandas, NumPy*
 
 ---
 
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [saisathwikreddy2003@gmail.com](mailto:saisathwikreddy2003@gmail.com)
-* 🧠  I'm currently learning Artificial Intelligence & Machine Learning
-* 👥  I'm looking to collaborate on real-world, challenging engineering projects
+* 🧠  I'm currently building AI-powered projects
+* 👥  I'm looking to collaborate on real-world, challenging engineering problems
 
 
 <p align="left">
