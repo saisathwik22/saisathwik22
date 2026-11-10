@@ -18,8 +18,6 @@ Rather than just writing code, I dive deep into **System Design and core enginee
 ---
 
 ### 🛠️ Featured Projects
-#### 📊 **AI Video Assisstant - RAG**
-*Working on a tool that transcribes videos, summarizes them, extracts action items and lets you chat with your meeting free.*
 
 #### 🚗 **Distributed Ride-Matching System**
 *Built a scalable backend architecture from scratch to handle high-concurrency real-time matching.*
