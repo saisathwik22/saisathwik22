@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:312e81&height=230&section=header&text=Hi,%20I'm%20Sathwik&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=Software%20Enthusiast%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Systems&descSize=18&descColor=c7d2fe&descAlignY=58" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=50&lines=Software+Engineer;Backend+%7C+Microservices+%7C+REST+APIs;Full-Stack+Development;AI+Systems+%7C+LLMs+%7C+Agents+%7C+RAG;I+build+the+whole+stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=50&lines=Backend+%7C+Microservices+%7C+REST+APIs;Full-Stack+Development;AI+Systems+%7C+LLMs+%7C+Agents+%7C+RAG;I+build+the+whole+stack" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,27 +24,23 @@
 
 ## About Me
 
-**🎓 Education**
-<!-- ✏️ EDIT THIS LINE -->
-B.Tech in Computer Science Engineering · Aurora Engineering College, Affiliated to JNTU Hyderabad
+**🎓 Education** : *B.Tech in Computer Science Engineering, 2026 · Aurora Engineering College, Affiliated to JNTU Hyderabad*
 
-**📍 Location**
-Hyderabad, Telangana, India
+**📍 Location** : *Hyderabad, Telangana, India*
 
-**💡 Interests** : AI | Backend | Full Stack
+**💡 Interests** : *AI | Backend | Full Stack*
 
 **🛠️ What I know and what I've built**
-- REST APIs and asynchronous backends
-- Multi-agent workflows with LangGraph and LangChain
-- RAG pipelines with embeddings and vector search
-- Deep learning models for NLP with TensorFlow and Keras
-- Microservice and event-driven architectures
+- *REST APIs and asynchronous backends*
+- *Multi-agent workflows with LangGraph and LangChain*
+- *Deep learning models for NLP with TensorFlow and Keras*
+- *Microservices and event-driven architectures*
 
 **🎯 Roles I'm open to**
-- Backend Engineer
-- Full-Stack Engineer
-- AI / GenAI Engineer
-- Software Engineer (general)
+- *Backend Engineer*
+- *Full-Stack Engineer*
+- *AI / GenAI Engineer*
+- *Software Engineer (general)*
 
 **🔧 Currently working on**
 Adding MCP (Model Context Protocol) support to Trip Pilot AI.
@@ -96,37 +92,29 @@ Adding MCP (Model Context Protocol) support to Trip Pilot AI.
 ## Featured Projects
 
 ### AgentStack: Multi-Agent AI Platform
-**Tech:** Python, LangGraph, Qdrant, MongoDB, Redis, AWS S3, Docker, Firebase, Razorpay
-
-- Built an AI platform covering chat, web search, code generation, PDF/PPT/image generation, PDF Q&A and image analysis, using LangGraph to classify intent and route each request to a specialized agent backed by its own LLM provider.
-- Designed 4 independently deployable microservices (auth, chat, agents, billing) behind an API gateway, with RAG-based PDF Q&A using Gemini embeddings and Qdrant similarity search.
-- Integrated Firebase Auth and Razorpay credit-based billing; containerized with Docker, backend on Render and frontend on Vercel.
+- *LangGraph routes each request (chat, search, code, PDF/PPT/image generation, PDF Q&A) to a specialized agent.*
+- *4 microservices (auth, chat, agents, billing) behind an API gateway, with RAG over PDFs using Qdrant.*
+- *Firebase Auth and Razorpay credit billing; Dockerized, deployed on Render and Vercel.*
 
 ### Real-Time Ride Matching System
-**Tech:** Java, Spring Boot, Kafka, Redis, MySQL, Docker
-
-- Designed an event-driven backend that separates ride management from driver matching, communicating asynchronously through Kafka so ride creation never blocks on matching.
-- Used Redis geospatial indexes to track driver locations and find the nearest available drivers within a radius of the rider's pickup point.
-- Persisted rides and driver state in MySQL via Spring Data JPA; one-command local setup with Docker Compose.
+- *Event-driven design: ride creation and driver matching are decoupled through Kafka.*
+- *Redis geospatial indexes find the nearest available drivers within a radius.*
+- *MySQL persistence with Spring Data JPA; one-command setup via Docker Compose.*
 
 ### Trip Pilot AI
-**Tech:** Python, FastAPI, LangGraph, LangChain, Groq, PostgreSQL
-
-- Built a full-stack AI travel planner that turns a natural-language request into flights, hotels and a day-by-day itinerary using specialized LangGraph agents with tool calling.
-- Grounded outputs with live AviationStack and Tavily data, with error handling for API failures, and low-latency inference on Groq-hosted LLMs.
-- FastAPI REST backend with PostgreSQL persisting conversation state per thread for follow-up refinements. *Next: adding MCP.*
+- *Multi-agent planner that turns a plain-English request into flights, hotels and a day-by-day itinerary.*
+- *Live data from AviationStack and Tavily; fast inference on Groq.*
+- *PostgreSQL stores per-thread state for follow-ups. Next: MCP integration.*
 
 ### Moodline: Emotion Detection from Text
-**Tech:** Python, TensorFlow/Keras, FastAPI
-
-- Developed a 6-class emotion classification web app with a Bidirectional GRU, after benchmarking baseline RNN, LSTM and GRU models.
-- Fixed severe class imbalance using computed class weights, improving minority-class recall and model stability.
-- Built an async FastAPI backend with model lifecycle management for real-time predictions.
+- *6-class emotion classifier using a Bidirectional GRU, benchmarked against RNN, LSTM and GRU baselines.*
+- *Class weights fix dataset imbalance and improve minority-class recall.*
+- *Async FastAPI backend for real-time predictions.*
 
 <div align="right">
 
 <!-- Replace each REPO_NAME with your actual repo name -->
-[AgentStack ↗](https://github.com/saisathwik22/REPO_NAME) · [Ride Matching ↗](https://github.com/saisathwik22/REPO_NAME) · [Trip Pilot AI ↗](https://github.com/saisathwik22/REPO_NAME) · [Moodline ↗](https://github.com/saisathwik22/REPO_NAME)
+[AgentStack ↗](https://github.com/saisathwik22/agentstack-ai) · [Ride Matching ↗](https://github.com/saisathwik22/ride-sharing-backend) · [Trip Pilot AI ↗](https://github.com/saisathwik22/travel-planner) · [Moodline ↗](https://github.com/saisathwik22/emotion-prediction-dl)
 
 </div>
 
