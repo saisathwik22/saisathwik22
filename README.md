@@ -134,16 +134,6 @@ Adding MCP (Model Context Protocol) support to Trip Pilot AI.
 
 ---
 
-## Contributions
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/40c463/saisathwik22" alt="GitHub contribution heatmap"/>
-</div>
-
----
-
-
 <details>
 <summary><b>Easter egg: click to run <code>./secret.sh</code></b></summary>
 
