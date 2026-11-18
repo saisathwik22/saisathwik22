@@ -42,8 +42,8 @@
 - *AI / GenAI Engineer*
 - *Software Engineer (general)*
 
-**🔧 Currently working on**
-Adding MCP (Model Context Protocol) support to Trip Pilot AI.
+<!--  **🔧 Currently working on**
+Adding MCP (Model Context Protocol) support to Trip Pilot AI. -->
 
 ---
 
@@ -102,9 +102,9 @@ Adding MCP (Model Context Protocol) support to Trip Pilot AI.
 - *MySQL persistence with Spring Data JPA; one-command setup via Docker Compose.*
 
 ### Trip Pilot AI
-- *Multi-agent planner that turns a plain-English request into flights, hotels and a day-by-day itinerary.*
-- *Live data from AviationStack and Tavily; fast inference on Groq.*
-- *PostgreSQL stores per-thread state for follow-ups. Next: MCP integration.*
+- *Multi-agent planner that turns a plain-English request into flights, hotels, weather and a day-by-day itinerary.*
+- *Tools integrated through MCP: Tavily search, AviationStack flight data and a custom weather server; fast inference on Groq.*
+- *PostgreSQL stores per-thread state for follow-ups.*
 
 ### Moodline: Emotion Detection from Text
 - *6-class emotion classifier using a Bidirectional GRU, benchmarked against RNN, LSTM and GRU baselines.*
