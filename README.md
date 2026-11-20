@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/assets/header.svg" width="100%" alt="Hi, I'm Sathwik"/>
+<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/header.svg" width="100%" alt="Hi, I'm Sathwik"/>
 
 <br/>
 
@@ -148,6 +148,6 @@ $ ./secret.sh
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
+<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
