@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:312e81&height=230&section=header&text=Hi,%20I'm%20Sathwik&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=Software%20Enthusiast%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Systems&descSize=18&descColor=c7d2fe&descAlignY=58" width="100%" alt="header"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=50&lines=Backend+%7C+Microservices+%7C+REST+APIs;Full-Stack+Development;AI+Systems+%7C+LLMs+%7C+Agents+%7C+RAG;I+build+the+whole+stack" alt="Typing SVG" /> </a>
+<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/assets/header.svg" width="100%" alt="Hi, I'm Sathwik"/>
 
 <br/>
 
@@ -109,7 +109,6 @@ Adding MCP (Model Context Protocol) support to Trip Pilot AI. -->
 
 <div align="right">
 
-<!-- Replace each REPO_NAME with your actual repo name -->
 [AgentStack ↗](https://github.com/saisathwik22/agentstack-ai) · [Ride Matching ↗](https://github.com/saisathwik22/ride-sharing-backend) · [Trip Pilot AI ↗](https://github.com/saisathwik22/travel-planner) · [Moodline ↗](https://github.com/saisathwik22/emotion-prediction-dl)
 
 </div>
@@ -149,8 +148,6 @@ $ ./secret.sh
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=C7D2FE&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by;Open+to+backend%2C+full-stack+%26+AI+roles;Let's+build+something+great" alt="footer typing"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:312e81&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
