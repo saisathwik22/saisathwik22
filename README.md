@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:312e81&height=230&section=header&text=Hi,%20I'm%20Sathwik&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=Software%20Enthusiast%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Systems&descSize=18&descColor=c7d2fe&descAlignY=58" width="100%" alt="header"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=50&lines=Backend+%7C+Microservices+%7C+REST+APIs;Full-Stack+Development;AI+Systems+%7C+LLMs+%7C+Agents+%7C+RAG;I+build+the+whole+stack" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e1b4b,100:312e81&height=230&section=header&text=Hi,%20I'm%20Sathwik&fontSize=60&fontColor=e0e7ff&animation=fadeIn&fontAlignY=36&desc=Software%20Enthusiast%20%7C%20Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Systems&descSize=18&descColor=c7d2fe&descAlignY=58" width="100%" alt="header"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=760&height=50&lines=Backend+%7C+Microservices+%7C+REST+APIs;Full-Stack+Development;AI+Systems+%7C+LLMs+%7C+Agents+%7C+RAG;I+build+the+whole+stack" alt="Typing SVG" /> </a>
 
 <br/>
 
