@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/header.svg" width="100%" alt="Hi, I'm Sathwik"/>
+<img src="./header.svg" width="100%" alt="Hi, I'm Sathwik"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saisathwik22&label=PROFILE+VIEWS&color=312e81&style=for-the-badge&labelColor=0f0c29" alt="views"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-312e81?style=for-the-badge&labelColor=0f0c29" alt="status"/>
+<img src="https://komarev.com/ghpvc/?username=saisathwik22&label=PROFILE+VIEWS&color=1e293b&style=for-the-badge&labelColor=0f172a" alt="views"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-1e293b?style=for-the-badge&labelColor=0f172a" alt="status"/>
 
 <br/><br/>
 
@@ -148,6 +148,6 @@ $ ./secret.sh
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saisathwik22/saisathwik22/main/footer.svg" width="100%" alt="Thanks for stopping by"/>
+<img src="./footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
